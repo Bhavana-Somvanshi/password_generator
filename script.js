@@ -3,7 +3,7 @@ const lowerSet = "abcdefghijklmnopqrstuvwxyz"
 const numberSet = "1234567890"
 const symbolSet = "~!@#$%^&*()_+/"
 
-// selectors
+// **selectors**//
 const passBox = document.getElementById("pass-box")
 const totalChar = document.getElementById("total-char")
 const upperInput = document.getElementById("upper-case")
